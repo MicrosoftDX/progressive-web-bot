@@ -1,4 +1,6 @@
-# Webchat with Push notifications
+# [Archieved] Webchat with Push notifications
+
+This code has been set in an archived state as it has not been modified for over 4 years and has noone supporting its future development. It is also likely that this project will not compile with the current BOT Framework libraries.
 
 This is a sample of code which shows how you can enable push notifications on a web chat connected to the Microsoft Bot Framework. It is using service workers and Progressive Web Apps features.
 
