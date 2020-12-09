@@ -1,4 +1,4 @@
-# [Archieved] Webchat with Push notifications
+# [Archived] Webchat with Push notifications
 
 This code has been set in an archived state as it has not been modified for over 4 years and has noone supporting its future development. It is also likely that this project will not compile with the current BOT Framework libraries.
 
